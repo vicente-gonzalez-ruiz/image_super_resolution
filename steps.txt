@@ -1,0 +1,3 @@
+Apply subband gains
+Control the search area with calcOpticalFlowFarneback
+Test motion estimation comparing pixels directly
